@@ -2,5 +2,4 @@
 - 👀 I’m interested in Data and Performance Analysis 
 - 🌱 I’m currently learning Python as my second programming language (SQL was my first, can I count that)
 - 💞️ I’m looking to collaborate on anything as I get better
-- 📫 How to reach me, maybe: Discord at 'traffyisdlaw'
-- ⚡ Fun fact: I love anime and manga and I have seen over 15k episodes watched and 45k chapters read
+- ⚡ Fun fact: I love anime and manga, I have over 15k episodes watched and 45k chapters read
